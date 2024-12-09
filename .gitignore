@@ -1,0 +1,61 @@
+# Diretórios e arquivos gerados pelo sistema
+/.gradle/
+/build/
+/captures/
+/output/
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Configurações específicas de usuários
+/local.properties
+/.vscode/
+/*.iml
+
+# Arquivos de log
+*.log
+
+# Arquivos de cache do Android Studio
+*.apk
+*.ap_
+*.dex
+
+# Arquivos de cache
+*.keystore
+*.jks
+*.class
+*.jar
+
+# Arquivos de configuração do sistema operacional
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Arquivos de build do Kotlin
+*.kotlin_module
+
+# Arquivos de cache de IDEs
+/.cxx/
+/.externalNativeBuild/
+
+# Arquivos do Firebase
+google-services.json
+google-services.plist
+
+# Chaves e tokens
+*.key
+*.pem
+*.crt
+*.p12
+
+# Arquivos temporários do sistema operacional
+*.tmp
+*.temp
+*.~lock.*
+
+# Arquivos de logs de depuração
+*.log
