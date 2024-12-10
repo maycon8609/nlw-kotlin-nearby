@@ -1,4 +1,4 @@
-package com.example.nearby.ui.components
+package com.example.nearby.ui.components.button
 
 import androidx.annotation.DrawableRes
 import androidx.compose.foundation.layout.Arrangement
